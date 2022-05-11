@@ -1,4 +1,4 @@
-# 이항 계수1  nCk구하는것임
+# 이항 계수1
 n,k = map(int, input().split())
 
 def facto(n):
