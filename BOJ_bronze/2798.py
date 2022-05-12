@@ -2,7 +2,6 @@
 import random
 n,m = map(int,input().split())
 card_list = list(map(int,input().split()))
-cnt = 0
 sum_list = []
 # print(card_list)
 
