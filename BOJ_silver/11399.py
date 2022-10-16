@@ -10,6 +10,5 @@ for i in range(people):
 	else:
 		accum.append(accum[i-1] + time[i])
 
-
 result = sum(accum)
 print(result)

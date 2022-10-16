@@ -8,6 +8,7 @@ for i in range(value[0]):
 
 coin.sort(reverse=True)
 result = 0
+
 for i in coin:
 	if value[1] == 0:
 		break
